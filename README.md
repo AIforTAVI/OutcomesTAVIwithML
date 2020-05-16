@@ -9,5 +9,5 @@ Methods and results: The dataset consists of 451 consecutive patients undergoing
 
 Conclusions: Machine learning has the potential to improve patient selection and risk management of interventional cardiovascular procedures, as it is capable of making superior predictions compared to current logistic risk scores. 
 
-Herein we make code used in this study available.
+In this GitHub Repository we make code used in this study available.
 
